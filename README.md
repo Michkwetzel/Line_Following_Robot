@@ -1,4 +1,9 @@
 # Mechatronics_II
+
+Images/Robot and Environment simulation.png
+![Image Alt text](Images/Robot and Environment simulation.png.jpg)
+
+![Image Alt text](/images/img.jpg "Optional title"))
  
 This project involved the digital modelling of a line following robot in simulink. Usually this would've been done in person but instead we had to do it virtually due to the corona-virus pandemic.
 
