@@ -1,9 +1,7 @@
 # Mechatronics_II
 
-![Alt text](Images/Robot and Environment simulation.png.jpg)
+![ImageAlt text](Images/Robot and Environment simulation.png.jpg)
 
-![Image Alt text](/images/img.jpg "Optional title"))
- 
 This project involved the digital modelling of a line following robot in simulink. Usually this would've been done in person but instead we had to do it virtually due to the corona-virus pandemic.
 
 The line following robot was digitally modeled using simulink. Some parameters of the robot were given to us, namely the H-bridge, Sensor and Wheeled Robot model. Our instructions were to design a sensor system that consisted of no more than 5 sensors, with a penalty for more sensors. Our robot would have to follow a number of different paths, some with slight turns and other with very sharp turns, and come to a stop once it is at the end of the track.
