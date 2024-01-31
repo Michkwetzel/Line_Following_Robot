@@ -1,7 +1,6 @@
 # Mechatronics_II
 
-Images/Robot and Environment simulation.png
-![Image Alt text](Images/Robot and Environment simulation.png.jpg
+![Image Alt text]Images/Robot and Environment simulation.png.jpg
 
 ![Image Alt text](/images/img.jpg "Optional title"))
  
